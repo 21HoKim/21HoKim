@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**21HoKim/21HoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ho Kim 👋
 
-Here are some ideas to get you started:
+CS Student · Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Network Security Enthusiast | Patching hostapd for PQC integration | OpenWrt contributor
+
+---
+
+**🛠 Tech Stack**
+
+**Languages** : 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Environment** : 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
+
+**Tools** : 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+**📊 GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21HoKim&show_icons=true&theme=dark&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21HoKim&layout=compact&theme=dark)
+
+</div>
