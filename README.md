@@ -26,11 +26,7 @@ Network Security Enthusiast | Patching hostapd for PQC integration | OpenWrt con
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
----
 
-**📊 GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21HoKim&show_icons=true&theme=dark&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21HoKim&layout=compact&theme=dark)
 
 </div>
