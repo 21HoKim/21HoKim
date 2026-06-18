@@ -4,7 +4,7 @@
 
 CS Student · Network Security
 
-Network Security Enthusiast | Patching hostapd for PQC integration | OpenWrt contributor
+Network Security Researcher | Patching hostapd for PQC integration | OpenWrt contributor
 
 ---
 
