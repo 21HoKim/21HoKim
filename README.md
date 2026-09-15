@@ -56,7 +56,7 @@ Network Security Researcher | Patching hostapd for PQC integration | OpenWrt con
   <tbody>
     <tr>
       <td align="left" valign="middle">
-        <img src="https://clogo.saramin.co.kr/company/logo/202206/25/re0o2a_qcpj-gchdya_logo.png" height="18" valign="middle">
+        <img src="https://github.com/21HoKim/21HoKim/blob/main/qsim_logo.png" height="18" valign="middle">
         <img src="https://img.shields.io/badge/KQIC_5th_Quantum_Internship-5A189A?style=flat&logo=physics&logoColor=white" height="20" valign="middle">
       </td>
       <td align="center" valign="middle"><code>2026 - Present</code></td>
