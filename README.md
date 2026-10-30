@@ -39,7 +39,6 @@ Network Security Researcher | Patching hostapd for PQC integration | OpenWrt con
 
 
 ![PQC](https://img.shields.io/badge/PQC-Post--Quantum_Cryptography-3C096C?style=flat)
-![QKD](https://img.shields.io/badge/QKD-Quantum_Key_Distribution-5A189A?style=flat)
 ![QKMS](https://img.shields.io/badge/QKMS-Quantum_Key_Management_System-7B2CBF?style=flat)
 
 ---
